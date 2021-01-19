@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\bin\Debug\netcoreapp3.1\Sarcina1.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\bin\Debug\netcoreapp3.1\Sarcina1.deps.json
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\bin\Debug\netcoreapp3.1\Sarcina1.runtimeconfig.json
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\bin\Debug\netcoreapp3.1\Sarcina1.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\bin\Debug\netcoreapp3.1\Sarcina1.dll
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\bin\Debug\netcoreapp3.1\Sarcina1.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\obj\Debug\netcoreapp3.1\Sarcina1.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\obj\Debug\netcoreapp3.1\Sarcina1.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\obj\Debug\netcoreapp3.1\Sarcina1.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\obj\Debug\netcoreapp3.1\Sarcina1.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\obj\Debug\netcoreapp3.1\Sarcina1.dll
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\obj\Debug\netcoreapp3.1\Sarcina1.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Sarcina1\obj\Debug\netcoreapp3.1\Sarcina1.genruntimeconfig.cache
