@@ -1,0 +1,7 @@
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 3\Laborator 3\Sarcina 1\bin\Debug\Sarcina 1.exe.config
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 3\Laborator 3\Sarcina 1\bin\Debug\Sarcina 1.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 3\Laborator 3\Sarcina 1\bin\Debug\Sarcina 1.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 3\Laborator 3\Sarcina 1\obj\Debug\Sarcina 1.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 3\Laborator 3\Sarcina 1\obj\Debug\Sarcina 1.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 3\Laborator 3\Sarcina 1\obj\Debug\Sarcina 1.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 3\Laborator 3\Sarcina 1\obj\Debug\Sarcina 1.pdb
