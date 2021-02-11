@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\bin\Debug\netcoreapp3.1\Sarcina4.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\bin\Debug\netcoreapp3.1\Sarcina4.deps.json
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\bin\Debug\netcoreapp3.1\Sarcina4.runtimeconfig.json
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\bin\Debug\netcoreapp3.1\Sarcina4.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\bin\Debug\netcoreapp3.1\Sarcina4.dll
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\bin\Debug\netcoreapp3.1\Sarcina4.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\obj\Debug\netcoreapp3.1\Sarcina4.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\obj\Debug\netcoreapp3.1\Sarcina4.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\obj\Debug\netcoreapp3.1\Sarcina4.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\obj\Debug\netcoreapp3.1\Sarcina4.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\obj\Debug\netcoreapp3.1\Sarcina4.dll
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\obj\Debug\netcoreapp3.1\Sarcina4.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Laborator 5\apoo-aaw1922\Laborator5\Sarcina4\obj\Debug\netcoreapp3.1\Sarcina4.genruntimeconfig.cache
