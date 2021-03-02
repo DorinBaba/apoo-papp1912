@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\bin\Debug\netcoreapp3.1\Exemplul3.exe
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\bin\Debug\netcoreapp3.1\Exemplul3.deps.json
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\bin\Debug\netcoreapp3.1\Exemplul3.runtimeconfig.json
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\bin\Debug\netcoreapp3.1\Exemplul3.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\bin\Debug\netcoreapp3.1\Exemplul3.dll
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\bin\Debug\netcoreapp3.1\Exemplul3.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\obj\Debug\netcoreapp3.1\Exemplul3.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\obj\Debug\netcoreapp3.1\Exemplul3.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\obj\Debug\netcoreapp3.1\Exemplul3.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\obj\Debug\netcoreapp3.1\Exemplul3.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\obj\Debug\netcoreapp3.1\Exemplul3.dll
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\obj\Debug\netcoreapp3.1\Exemplul3.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia8\Lectia8\Exemplul3\obj\Debug\netcoreapp3.1\Exemplul3.genruntimeconfig.cache
