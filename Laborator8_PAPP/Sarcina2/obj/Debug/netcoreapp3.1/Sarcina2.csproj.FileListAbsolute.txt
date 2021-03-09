@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\bin\Debug\netcoreapp3.1\Sarcina2.exe
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\bin\Debug\netcoreapp3.1\Sarcina2.deps.json
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\bin\Debug\netcoreapp3.1\Sarcina2.runtimeconfig.json
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\bin\Debug\netcoreapp3.1\Sarcina2.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\bin\Debug\netcoreapp3.1\Sarcina2.dll
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\bin\Debug\netcoreapp3.1\Sarcina2.pdb
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\obj\Debug\netcoreapp3.1\Sarcina2.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\obj\Debug\netcoreapp3.1\Sarcina2.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\obj\Debug\netcoreapp3.1\Sarcina2.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\obj\Debug\netcoreapp3.1\Sarcina2.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\obj\Debug\netcoreapp3.1\Sarcina2.dll
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\obj\Debug\netcoreapp3.1\Sarcina2.pdb
+C:\Users\Dorin\Desktop\Laborator8_PAPP\Sarcina2\obj\Debug\netcoreapp3.1\Sarcina2.genruntimeconfig.cache
