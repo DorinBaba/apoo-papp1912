@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\bin\Debug\netcoreapp3.1\ListeGenerice.exe
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\bin\Debug\netcoreapp3.1\ListeGenerice.deps.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\bin\Debug\netcoreapp3.1\ListeGenerice.runtimeconfig.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\bin\Debug\netcoreapp3.1\ListeGenerice.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\bin\Debug\netcoreapp3.1\ListeGenerice.dll
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\bin\Debug\netcoreapp3.1\ListeGenerice.pdb
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\obj\Debug\netcoreapp3.1\ListeGenerice.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\obj\Debug\netcoreapp3.1\ListeGenerice.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\obj\Debug\netcoreapp3.1\ListeGenerice.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\obj\Debug\netcoreapp3.1\ListeGenerice.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\obj\Debug\netcoreapp3.1\ListeGenerice.dll
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\obj\Debug\netcoreapp3.1\ListeGenerice.pdb
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\ListeGenerice\obj\Debug\netcoreapp3.1\ListeGenerice.genruntimeconfig.cache

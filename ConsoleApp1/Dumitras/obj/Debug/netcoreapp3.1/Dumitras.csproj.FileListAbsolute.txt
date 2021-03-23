@@ -1,0 +1,12 @@
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\bin\Debug\netcoreapp3.1\Dumitras.exe
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\bin\Debug\netcoreapp3.1\Dumitras.deps.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\bin\Debug\netcoreapp3.1\Dumitras.runtimeconfig.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\bin\Debug\netcoreapp3.1\Dumitras.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\bin\Debug\netcoreapp3.1\Dumitras.dll
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\bin\Debug\netcoreapp3.1\Dumitras.pdb
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\obj\Debug\netcoreapp3.1\Dumitras.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\obj\Debug\netcoreapp3.1\Dumitras.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\obj\Debug\netcoreapp3.1\Dumitras.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\obj\Debug\netcoreapp3.1\Dumitras.dll
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\obj\Debug\netcoreapp3.1\Dumitras.pdb
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Dumitras\obj\Debug\netcoreapp3.1\Dumitras.genruntimeconfig.cache

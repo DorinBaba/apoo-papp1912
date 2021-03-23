@@ -1,0 +1,12 @@
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\bin\Debug\netcoreapp3.1\UpCasting.exe
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\bin\Debug\netcoreapp3.1\UpCasting.deps.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\bin\Debug\netcoreapp3.1\UpCasting.runtimeconfig.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\bin\Debug\netcoreapp3.1\UpCasting.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\bin\Debug\netcoreapp3.1\UpCasting.dll
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\bin\Debug\netcoreapp3.1\UpCasting.pdb
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\obj\Debug\netcoreapp3.1\UpCasting.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\obj\Debug\netcoreapp3.1\UpCasting.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\obj\Debug\netcoreapp3.1\UpCasting.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\obj\Debug\netcoreapp3.1\UpCasting.dll
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\obj\Debug\netcoreapp3.1\UpCasting.pdb
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\UpCasting\obj\Debug\netcoreapp3.1\UpCasting.genruntimeconfig.cache

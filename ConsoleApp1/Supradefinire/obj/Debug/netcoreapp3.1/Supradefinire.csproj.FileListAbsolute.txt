@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\bin\Debug\netcoreapp3.1\Supradefinire.exe
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\bin\Debug\netcoreapp3.1\Supradefinire.deps.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\bin\Debug\netcoreapp3.1\Supradefinire.runtimeconfig.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\bin\Debug\netcoreapp3.1\Supradefinire.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\bin\Debug\netcoreapp3.1\Supradefinire.dll
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\bin\Debug\netcoreapp3.1\Supradefinire.pdb
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\obj\Debug\netcoreapp3.1\Supradefinire.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\obj\Debug\netcoreapp3.1\Supradefinire.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\obj\Debug\netcoreapp3.1\Supradefinire.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\obj\Debug\netcoreapp3.1\Supradefinire.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\obj\Debug\netcoreapp3.1\Supradefinire.dll
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\obj\Debug\netcoreapp3.1\Supradefinire.pdb
+C:\Users\Dorin\Desktop\stuff\ConsoleApp1\Supradefinire\obj\Debug\netcoreapp3.1\Supradefinire.genruntimeconfig.cache
