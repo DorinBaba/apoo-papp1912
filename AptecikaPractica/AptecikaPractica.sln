@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fisierText", "fisierText\fisierText.csproj", "{136D461B-2F01-4C0D-AF4A-AF17673AC80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fisierTextCitire", "fisierTextCitire\fisierTextCitire.csproj", "{0F89801E-B746-45EE-8ED1-F0580FCE1FD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{136D461B-2F01-4C0D-AF4A-AF17673AC80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136D461B-2F01-4C0D-AF4A-AF17673AC80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136D461B-2F01-4C0D-AF4A-AF17673AC80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136D461B-2F01-4C0D-AF4A-AF17673AC80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F89801E-B746-45EE-8ED1-F0580FCE1FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F89801E-B746-45EE-8ED1-F0580FCE1FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F89801E-B746-45EE-8ED1-F0580FCE1FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F89801E-B746-45EE-8ED1-F0580FCE1FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FCB284B-DC2A-4676-8D17-F7A87C43BA66}
+	EndGlobalSection
+EndGlobal

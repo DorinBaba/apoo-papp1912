@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\bin\Debug\netcoreapp3.1\fisierTextCitire.exe
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\bin\Debug\netcoreapp3.1\fisierTextCitire.deps.json
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\bin\Debug\netcoreapp3.1\fisierTextCitire.runtimeconfig.json
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\bin\Debug\netcoreapp3.1\fisierTextCitire.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\bin\Debug\netcoreapp3.1\fisierTextCitire.dll
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\bin\Debug\netcoreapp3.1\fisierTextCitire.pdb
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\obj\Debug\netcoreapp3.1\fisierTextCitire.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\obj\Debug\netcoreapp3.1\fisierTextCitire.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\obj\Debug\netcoreapp3.1\fisierTextCitire.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\obj\Debug\netcoreapp3.1\fisierTextCitire.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\obj\Debug\netcoreapp3.1\fisierTextCitire.dll
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\obj\Debug\netcoreapp3.1\fisierTextCitire.pdb
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierTextCitire\obj\Debug\netcoreapp3.1\fisierTextCitire.genruntimeconfig.cache

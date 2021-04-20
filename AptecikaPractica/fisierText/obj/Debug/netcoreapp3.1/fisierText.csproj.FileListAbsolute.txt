@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\bin\Debug\netcoreapp3.1\fisierText.exe
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\bin\Debug\netcoreapp3.1\fisierText.deps.json
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\bin\Debug\netcoreapp3.1\fisierText.runtimeconfig.json
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\bin\Debug\netcoreapp3.1\fisierText.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\bin\Debug\netcoreapp3.1\fisierText.dll
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\bin\Debug\netcoreapp3.1\fisierText.pdb
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\obj\Debug\netcoreapp3.1\fisierText.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\obj\Debug\netcoreapp3.1\fisierText.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\obj\Debug\netcoreapp3.1\fisierText.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\obj\Debug\netcoreapp3.1\fisierText.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\obj\Debug\netcoreapp3.1\fisierText.dll
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\obj\Debug\netcoreapp3.1\fisierText.pdb
+C:\Users\Dorin\Desktop\AptecikaPractica\fisierText\obj\Debug\netcoreapp3.1\fisierText.genruntimeconfig.cache
